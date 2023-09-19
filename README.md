@@ -1,1 +1,2 @@
-# Medical-Image-Processing---Technion-course
+# Medical-Image-Processing
+Technion-course
